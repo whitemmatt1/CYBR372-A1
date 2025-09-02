@@ -42,9 +42,19 @@ public class CLIApplication {
         ArgumentBundle.Operation op = args.getOperation();
 
         if (op == ArgumentBundle.Operation.ENCRYPT) {
-            return Encryptor.run(args);
+            long startTime = System.nanoTime();
+            int result = Encryptor.run(args);
+            long endTime = System.nanoTime();
+            double elapsedMillis = (endTime - startTime) / 1_000_000.0;
+            System.out.printf("Encryption time: %.3f ms%n", elapsedMillis);
+            return result;
         } else if (op == ArgumentBundle.Operation.DECRYPT) {
-            return Decryptor.run(args);
+            long startTime = System.nanoTime();
+            int result = Decryptor.run(args);
+            long endTime = System.nanoTime();
+            double elapsedMillis = (endTime - startTime) / 1_000_000.0;
+            System.out.printf("Decryption time: %.3f ms%n", elapsedMillis);
+            return result;
         } else {
             System.err.println("Error: Unknown operation (must be 'enc' or 'dec')");
             return StatusCode.INVALID_ARGUMENTS;

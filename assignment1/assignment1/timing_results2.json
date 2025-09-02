@@ -1,0 +1,422 @@
+[
+  {
+    "key_length": 128,
+    "mode": "ecb",
+    "input_file": "outputs/1.txt_128_ecb.txt",
+    "output_file": "decrypted/1.txt_128_ecb.txt_128_ecb.txt",
+    "decryption_time_ms": 60.279
+  },
+  {
+    "key_length": 128,
+    "mode": "ecb",
+    "input_file": "outputs/100.txt_128_ecb.txt",
+    "output_file": "decrypted/100.txt_128_ecb.txt_128_ecb.txt",
+    "decryption_time_ms": 56.576
+  },
+  {
+    "key_length": 128,
+    "mode": "ecb",
+    "input_file": "outputs/1024.txt_128_ecb.txt",
+    "output_file": "decrypted/1024.txt_128_ecb.txt_128_ecb.txt",
+    "decryption_time_ms": 49.821
+  },
+  {
+    "key_length": 128,
+    "mode": "ecb",
+    "input_file": "outputs/102400.txt_128_ecb.txt",
+    "output_file": "decrypted/102400.txt_128_ecb.txt_128_ecb.txt",
+    "decryption_time_ms": 54.943
+  },
+  {
+    "key_length": 128,
+    "mode": "ecb",
+    "input_file": "outputs/104857600.txt_128_ecb.txt",
+    "output_file": "decrypted/104857600.txt_128_ecb.txt_128_ecb.txt",
+    "decryption_time_ms": 209.399
+  },
+  {
+    "key_length": 128,
+    "mode": "cbc",
+    "input_file": "outputs/1.txt_128_cbc.txt",
+    "output_file": "decrypted/1.txt_128_cbc.txt_128_cbc.txt",
+    "decryption_time_ms": 52.992
+  },
+  {
+    "key_length": 128,
+    "mode": "cbc",
+    "input_file": "outputs/100.txt_128_cbc.txt",
+    "output_file": "decrypted/100.txt_128_cbc.txt_128_cbc.txt",
+    "decryption_time_ms": 62.516
+  },
+  {
+    "key_length": 128,
+    "mode": "cbc",
+    "input_file": "outputs/1024.txt_128_cbc.txt",
+    "output_file": "decrypted/1024.txt_128_cbc.txt_128_cbc.txt",
+    "decryption_time_ms": 57.253
+  },
+  {
+    "key_length": 128,
+    "mode": "cbc",
+    "input_file": "outputs/102400.txt_128_cbc.txt",
+    "output_file": "decrypted/102400.txt_128_cbc.txt_128_cbc.txt",
+    "decryption_time_ms": 72.754
+  },
+  {
+    "key_length": 128,
+    "mode": "cbc",
+    "input_file": "outputs/104857600.txt_128_cbc.txt",
+    "output_file": "decrypted/104857600.txt_128_cbc.txt_128_cbc.txt",
+    "decryption_time_ms": 260.917
+  },
+  {
+    "key_length": 128,
+    "mode": "ctr",
+    "input_file": "outputs/1.txt_128_ctr.txt",
+    "output_file": "decrypted/1.txt_128_ctr.txt_128_ctr.txt",
+    "decryption_time_ms": 52.715
+  },
+  {
+    "key_length": 128,
+    "mode": "ctr",
+    "input_file": "outputs/100.txt_128_ctr.txt",
+    "output_file": "decrypted/100.txt_128_ctr.txt_128_ctr.txt",
+    "decryption_time_ms": 52.697
+  },
+  {
+    "key_length": 128,
+    "mode": "ctr",
+    "input_file": "outputs/1024.txt_128_ctr.txt",
+    "output_file": "decrypted/1024.txt_128_ctr.txt_128_ctr.txt",
+    "decryption_time_ms": 56.961
+  },
+  {
+    "key_length": 128,
+    "mode": "ctr",
+    "input_file": "outputs/102400.txt_128_ctr.txt",
+    "output_file": "decrypted/102400.txt_128_ctr.txt_128_ctr.txt",
+    "decryption_time_ms": 95.374
+  },
+  {
+    "key_length": 128,
+    "mode": "ctr",
+    "input_file": "outputs/104857600.txt_128_ctr.txt",
+    "output_file": "decrypted/104857600.txt_128_ctr.txt_128_ctr.txt",
+    "decryption_time_ms": 355.457
+  },
+  {
+    "key_length": 128,
+    "mode": "gcm",
+    "input_file": "outputs/1.txt_128_gcm.txt",
+    "output_file": "decrypted/1.txt_128_gcm.txt_128_gcm.txt",
+    "decryption_time_ms": 69.966
+  },
+  {
+    "key_length": 128,
+    "mode": "gcm",
+    "input_file": "outputs/100.txt_128_gcm.txt",
+    "output_file": "decrypted/100.txt_128_gcm.txt_128_gcm.txt",
+    "decryption_time_ms": 54.986
+  },
+  {
+    "key_length": 128,
+    "mode": "gcm",
+    "input_file": "outputs/1024.txt_128_gcm.txt",
+    "output_file": "decrypted/1024.txt_128_gcm.txt_128_gcm.txt",
+    "decryption_time_ms": 66.976
+  },
+  {
+    "key_length": 128,
+    "mode": "gcm",
+    "input_file": "outputs/102400.txt_128_gcm.txt",
+    "output_file": "decrypted/102400.txt_128_gcm.txt_128_gcm.txt",
+    "decryption_time_ms": 61.421
+  },
+  {
+    "key_length": 128,
+    "mode": "gcm",
+    "input_file": "outputs/104857600.txt_128_gcm.txt",
+    "output_file": "decrypted/104857600.txt_128_gcm.txt_128_gcm.txt",
+    "decryption_time_ms": 1716.058
+  },
+  {
+    "key_length": 192,
+    "mode": "ecb",
+    "input_file": "outputs/1.txt_192_ecb.txt",
+    "output_file": "decrypted/1.txt_192_ecb.txt_192_ecb.txt",
+    "decryption_time_ms": 208.507
+  },
+  {
+    "key_length": 192,
+    "mode": "ecb",
+    "input_file": "outputs/100.txt_192_ecb.txt",
+    "output_file": "decrypted/100.txt_192_ecb.txt_192_ecb.txt",
+    "decryption_time_ms": 51.396
+  },
+  {
+    "key_length": 192,
+    "mode": "ecb",
+    "input_file": "outputs/1024.txt_192_ecb.txt",
+    "output_file": "decrypted/1024.txt_192_ecb.txt_192_ecb.txt",
+    "decryption_time_ms": 59.26
+  },
+  {
+    "key_length": 192,
+    "mode": "ecb",
+    "input_file": "outputs/102400.txt_192_ecb.txt",
+    "output_file": "decrypted/102400.txt_192_ecb.txt_192_ecb.txt",
+    "decryption_time_ms": 60.147
+  },
+  {
+    "key_length": 192,
+    "mode": "ecb",
+    "input_file": "outputs/104857600.txt_192_ecb.txt",
+    "output_file": "decrypted/104857600.txt_192_ecb.txt_192_ecb.txt",
+    "decryption_time_ms": 222.765
+  },
+  {
+    "key_length": 192,
+    "mode": "cbc",
+    "input_file": "outputs/1.txt_192_cbc.txt",
+    "output_file": "decrypted/1.txt_192_cbc.txt_192_cbc.txt",
+    "decryption_time_ms": 54.408
+  },
+  {
+    "key_length": 192,
+    "mode": "cbc",
+    "input_file": "outputs/100.txt_192_cbc.txt",
+    "output_file": "decrypted/100.txt_192_cbc.txt_192_cbc.txt",
+    "decryption_time_ms": 52.081
+  },
+  {
+    "key_length": 192,
+    "mode": "cbc",
+    "input_file": "outputs/1024.txt_192_cbc.txt",
+    "output_file": "decrypted/1024.txt_192_cbc.txt_192_cbc.txt",
+    "decryption_time_ms": 56.784
+  },
+  {
+    "key_length": 192,
+    "mode": "cbc",
+    "input_file": "outputs/102400.txt_192_cbc.txt",
+    "output_file": "decrypted/102400.txt_192_cbc.txt_192_cbc.txt",
+    "decryption_time_ms": 79.027
+  },
+  {
+    "key_length": 192,
+    "mode": "cbc",
+    "input_file": "outputs/104857600.txt_192_cbc.txt",
+    "output_file": "decrypted/104857600.txt_192_cbc.txt_192_cbc.txt",
+    "decryption_time_ms": 290.306
+  },
+  {
+    "key_length": 192,
+    "mode": "ctr",
+    "input_file": "outputs/1.txt_192_ctr.txt",
+    "output_file": "decrypted/1.txt_192_ctr.txt_192_ctr.txt",
+    "decryption_time_ms": 103.151
+  },
+  {
+    "key_length": 192,
+    "mode": "ctr",
+    "input_file": "outputs/100.txt_192_ctr.txt",
+    "output_file": "decrypted/100.txt_192_ctr.txt_192_ctr.txt",
+    "decryption_time_ms": 68.749
+  },
+  {
+    "key_length": 192,
+    "mode": "ctr",
+    "input_file": "outputs/1024.txt_192_ctr.txt",
+    "output_file": "decrypted/1024.txt_192_ctr.txt_192_ctr.txt",
+    "decryption_time_ms": 51.691
+  },
+  {
+    "key_length": 192,
+    "mode": "ctr",
+    "input_file": "outputs/102400.txt_192_ctr.txt",
+    "output_file": "decrypted/102400.txt_192_ctr.txt_192_ctr.txt",
+    "decryption_time_ms": 61.889
+  },
+  {
+    "key_length": 192,
+    "mode": "ctr",
+    "input_file": "outputs/104857600.txt_192_ctr.txt",
+    "output_file": "decrypted/104857600.txt_192_ctr.txt_192_ctr.txt",
+    "decryption_time_ms": 375.089
+  },
+  {
+    "key_length": 192,
+    "mode": "gcm",
+    "input_file": "outputs/1.txt_192_gcm.txt",
+    "output_file": "decrypted/1.txt_192_gcm.txt_192_gcm.txt",
+    "decryption_time_ms": 72.884
+  },
+  {
+    "key_length": 192,
+    "mode": "gcm",
+    "input_file": "outputs/100.txt_192_gcm.txt",
+    "output_file": "decrypted/100.txt_192_gcm.txt_192_gcm.txt",
+    "decryption_time_ms": 57.036
+  },
+  {
+    "key_length": 192,
+    "mode": "gcm",
+    "input_file": "outputs/1024.txt_192_gcm.txt",
+    "output_file": "decrypted/1024.txt_192_gcm.txt_192_gcm.txt",
+    "decryption_time_ms": 56.392
+  },
+  {
+    "key_length": 192,
+    "mode": "gcm",
+    "input_file": "outputs/102400.txt_192_gcm.txt",
+    "output_file": "decrypted/102400.txt_192_gcm.txt_192_gcm.txt",
+    "decryption_time_ms": 62.826
+  },
+  {
+    "key_length": 192,
+    "mode": "gcm",
+    "input_file": "outputs/104857600.txt_192_gcm.txt",
+    "output_file": "decrypted/104857600.txt_192_gcm.txt_192_gcm.txt",
+    "decryption_time_ms": 1672.752
+  },
+  {
+    "key_length": 256,
+    "mode": "ecb",
+    "input_file": "outputs/1.txt_256_ecb.txt",
+    "output_file": "decrypted/1.txt_256_ecb.txt_256_ecb.txt",
+    "decryption_time_ms": 57.545
+  },
+  {
+    "key_length": 256,
+    "mode": "ecb",
+    "input_file": "outputs/100.txt_256_ecb.txt",
+    "output_file": "decrypted/100.txt_256_ecb.txt_256_ecb.txt",
+    "decryption_time_ms": 59.873
+  },
+  {
+    "key_length": 256,
+    "mode": "ecb",
+    "input_file": "outputs/1024.txt_256_ecb.txt",
+    "output_file": "decrypted/1024.txt_256_ecb.txt_256_ecb.txt",
+    "decryption_time_ms": 52.734
+  },
+  {
+    "key_length": 256,
+    "mode": "ecb",
+    "input_file": "outputs/102400.txt_256_ecb.txt",
+    "output_file": "decrypted/102400.txt_256_ecb.txt_256_ecb.txt",
+    "decryption_time_ms": 54.978
+  },
+  {
+    "key_length": 256,
+    "mode": "ecb",
+    "input_file": "outputs/104857600.txt_256_ecb.txt",
+    "output_file": "decrypted/104857600.txt_256_ecb.txt_256_ecb.txt",
+    "decryption_time_ms": 226.264
+  },
+  {
+    "key_length": 256,
+    "mode": "cbc",
+    "input_file": "outputs/1.txt_256_cbc.txt",
+    "output_file": "decrypted/1.txt_256_cbc.txt_256_cbc.txt",
+    "decryption_time_ms": 62.659
+  },
+  {
+    "key_length": 256,
+    "mode": "cbc",
+    "input_file": "outputs/100.txt_256_cbc.txt",
+    "output_file": "decrypted/100.txt_256_cbc.txt_256_cbc.txt",
+    "decryption_time_ms": 61.635
+  },
+  {
+    "key_length": 256,
+    "mode": "cbc",
+    "input_file": "outputs/1024.txt_256_cbc.txt",
+    "output_file": "decrypted/1024.txt_256_cbc.txt_256_cbc.txt",
+    "decryption_time_ms": 49.442
+  },
+  {
+    "key_length": 256,
+    "mode": "cbc",
+    "input_file": "outputs/102400.txt_256_cbc.txt",
+    "output_file": "decrypted/102400.txt_256_cbc.txt_256_cbc.txt",
+    "decryption_time_ms": 53.774
+  },
+  {
+    "key_length": 256,
+    "mode": "cbc",
+    "input_file": "outputs/104857600.txt_256_cbc.txt",
+    "output_file": "decrypted/104857600.txt_256_cbc.txt_256_cbc.txt",
+    "decryption_time_ms": 194.523
+  },
+  {
+    "key_length": 256,
+    "mode": "ctr",
+    "input_file": "outputs/1.txt_256_ctr.txt",
+    "output_file": "decrypted/1.txt_256_ctr.txt_256_ctr.txt",
+    "decryption_time_ms": 56.058
+  },
+  {
+    "key_length": 256,
+    "mode": "ctr",
+    "input_file": "outputs/100.txt_256_ctr.txt",
+    "output_file": "decrypted/100.txt_256_ctr.txt_256_ctr.txt",
+    "decryption_time_ms": 56.126
+  },
+  {
+    "key_length": 256,
+    "mode": "ctr",
+    "input_file": "outputs/1024.txt_256_ctr.txt",
+    "output_file": "decrypted/1024.txt_256_ctr.txt_256_ctr.txt",
+    "decryption_time_ms": 54.779
+  },
+  {
+    "key_length": 256,
+    "mode": "ctr",
+    "input_file": "outputs/102400.txt_256_ctr.txt",
+    "output_file": "decrypted/102400.txt_256_ctr.txt_256_ctr.txt",
+    "decryption_time_ms": 59.173
+  },
+  {
+    "key_length": 256,
+    "mode": "ctr",
+    "input_file": "outputs/104857600.txt_256_ctr.txt",
+    "output_file": "decrypted/104857600.txt_256_ctr.txt_256_ctr.txt",
+    "decryption_time_ms": 312.544
+  },
+  {
+    "key_length": 256,
+    "mode": "gcm",
+    "input_file": "outputs/1.txt_256_gcm.txt",
+    "output_file": "decrypted/1.txt_256_gcm.txt_256_gcm.txt",
+    "decryption_time_ms": 50.864
+  },
+  {
+    "key_length": 256,
+    "mode": "gcm",
+    "input_file": "outputs/100.txt_256_gcm.txt",
+    "output_file": "decrypted/100.txt_256_gcm.txt_256_gcm.txt",
+    "decryption_time_ms": 50.346
+  },
+  {
+    "key_length": 256,
+    "mode": "gcm",
+    "input_file": "outputs/1024.txt_256_gcm.txt",
+    "output_file": "decrypted/1024.txt_256_gcm.txt_256_gcm.txt",
+    "decryption_time_ms": 51.27
+  },
+  {
+    "key_length": 256,
+    "mode": "gcm",
+    "input_file": "outputs/102400.txt_256_gcm.txt",
+    "output_file": "decrypted/102400.txt_256_gcm.txt_256_gcm.txt",
+    "decryption_time_ms": 56.99
+  },
+  {
+    "key_length": 256,
+    "mode": "gcm",
+    "input_file": "outputs/104857600.txt_256_gcm.txt",
+    "output_file": "decrypted/104857600.txt_256_gcm.txt_256_gcm.txt",
+    "decryption_time_ms": 1567.459
+  }
+]
